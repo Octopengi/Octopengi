@@ -1,4 +1,2 @@
-- hi hi hi this is Octopengii
-- I really like computer science, I'm currently in college studying it
-- I also really like ducks, music, video games, and the violin
-- Still currently figuring out all my life goals
+- why hello there
+- I'm currently studying Computer Science + Game Development at college
